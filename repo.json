@@ -1,8 +1,8 @@
 {
   "meta": {
-    "name": "Dummy Extension Repo",
-    "shortName": "Dummy Repo",
-    "website": "https://github.com/MajorTanya/mihon-dummyextension",
-    "signingKeyFingerprint": "debefdf6a48f69a10ed908b5185b111926cf9487f3e17149ca9a2baf10153106"
+    "name": "Malicious Repo",
+    "shortName": "Mal Repo",
+    "website": "https://github.com/sirlag/mihon-dummyextension",
+    "signingKeyFingerprint": "9add655a78e96c4ec7a53ef89dccb557cb5d767489fac5e785d671a5a75d4da2"
   }
 }
